@@ -1,0 +1,5 @@
+# crudPHP
+
+### Linguagens
+ - PHP
+ - MySQL
